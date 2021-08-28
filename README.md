@@ -4,7 +4,7 @@ I am a passionate and diligent Statistics and Computer Science sophomore looking
 
 ## Highlighted Projects
 
-#### Predicting Parkinson's Disease - https://github.com/ayianshariff2/projects/blob/main/Parkinson's%20Disease%20Project%20README.pdf
+#### [Predicting Parkinson's Disease](https://github.com/ayianshariff2/projects/blob/main/Parkinson's%20Disease%20Project%20README.pdf)
 
 Worked with a dataset that contained various predictive factors of Parkinson’s Disease. Trained XGBClassifier on the dataset to identify whether or not a particular individual has Parkinson’s disease. Found that XGBoost was the most accurate model in predicting whether a person has Parkinson’s disease or not at 94.87%.
 

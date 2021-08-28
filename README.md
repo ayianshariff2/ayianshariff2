@@ -4,7 +4,7 @@ I am a passionate and diligent Statistics and Computer Science sophomore looking
 
 ## Highlighted Projects
 
-#### [Predicting Parkinson's Disease] (https://github.com/ayianshariff2/parkinson)
-#### [Detecting Fake News] (https://github.com/ayianshariff2/projects/blob/main/Fake%20News%20Project.py)
-#### [Surviving the Titanic] (https://github.com/ayianshariff2/projects/blob/main/Titanic%20README.pdf)
+#### Predicting Parkinson's Disease - https://github.com/ayianshariff2/projects/blob/main/Parkinson's%20Disease%20Project%20README.pdf
+#### Detecting Fake News - https://github.com/ayianshariff2/projects/blob/main/Fake%20News%20Project.py
+#### Surviving the Titanic - https://github.com/ayianshariff2/projects/blob/main/Titanic%20README.pdf
 

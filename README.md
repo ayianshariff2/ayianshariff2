@@ -9,11 +9,11 @@ I am a passionate and diligent Statistics and Computer Science sophomore looking
 Worked with a dataset that contained various predictive factors of Parkinson’s Disease. Trained XGBClassifier on the dataset to identify whether or not a particular individual has Parkinson’s disease. Found that XGBoost was the most accurate model in predicting whether a person has Parkinson’s disease or not at 94.87%.
 
 
-#### Detecting Fake News - https://github.com/ayianshariff2/projects/blob/main/Fake%20News%20Project%20README.pdf
+#### [Detecting Fake News](https://github.com/ayianshariff2/projects/blob/main/Fake%20News%20Project%20README.pdf)
 
 Implemented a Passive Aggressive Classifier model to determine whether a piece of news was fake or real. Trained the model with a news dataset containing a label that depicted whether the piece of news was fake or real. The model testing resulted in 93% accuracy of predictions.
 
 
-#### Surviving the Titanic - https://github.com/ayianshariff2/projects/blob/main/Titanic%20README.pdf
+#### [Surviving the Titanic](https://github.com/ayianshariff2/projects/blob/main/Titanic%20README.pdf)
 
 Analyzed factors associated with surviving the Titanic crash. Used machine learning in order to train and test various models after splitting the dataset. Gender was the most important factor in surviving the crash and random forest was the most accurate model in predicting whether a person would survive the titanic crash or not at 75.58%.

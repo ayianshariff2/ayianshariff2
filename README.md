@@ -17,3 +17,8 @@ Implemented a Passive Aggressive Classifier model to determine whether a piece o
 #### [Surviving the Titanic](https://github.com/ayianshariff2/projects/blob/main/Titanic%20README.pdf)
 
 Analyzed factors associated with surviving the Titanic crash. Used machine learning in order to train and test various models after splitting the dataset. Gender was the most important factor in surviving the crash and random forest was the most accurate model in predicting whether a person would survive the titanic crash or not at 75.58%.
+
+#### [Identifying Legendary Pokemon](https://github.com/ayianshariff2/projects/blob/main/Pokemon%20Project%20README.pdf)
+
+Predicted whether or not a particular Pokemon was legendary based on features from the Pokemon dataset. Cleaned and normalized the dataset before training various models in order to compare their accuracy in predicting a Pokemon’s legendary status. Found that the random forest model had the highest accuracy in predicting whether a particular Pokemon was legendary or not at 96.05% and speed attack is the most important predictor of a Pokemon’s legendary status.
+

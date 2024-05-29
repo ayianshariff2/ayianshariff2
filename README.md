@@ -5,7 +5,7 @@ I am a passionate and diligent Statistics and Computer Science student looking f
 ## Highlighted Projects
 
 #### [Airline Customer Satisfaction](https://github.com/ayianshariff2/projects/blob/main/Airline%20Customer%20Satisfaction%20Report.pdf)
-Applied the logistic regression, the decision tree, and the random forest model to identify key factors driving airline customer satisfaction from a dataset of over 120,000 passengers. Amongst the three models, the random forest model achieved the highest accuracy at 95.67% and the highest testing AUC at 0.9899. I discovered that the online boarding experience, in-flight wifi service, and travel class were the most important predictors of customer satisfaction with an airline.
+Applied the logistic regression, the decision tree, and the random forest model to identify key factors driving airline customer satisfaction from a dataset of over 120,000 passengers. Amongst the three models, the random forest model achieved the highest accuracy at 95.67% and the highest testing AUC at 0.9899. The online boarding experience, in-flight wifi service, and travel class were the most important predictors of customer satisfaction with an airline.
 
 #### [Predicting Parkinson's Disease](https://github.com/ayianshariff2/projects/blob/main/Parkinson's%20Disease%20Project%20README.pdf)
 

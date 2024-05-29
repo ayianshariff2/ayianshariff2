@@ -21,3 +21,7 @@ Analyzed factors associated with surviving the Titanic crash. Used machine learn
 #### [Income Level Predictor](https://github.com/ayianshariff2/projects/blob/main/Salary%20Predictor%20README.pdf)
 
 Analyzed the global census data to identify key factors that influence individual income levels. Implemented various models including XGBoost and random forest classifier to predict the income levels based on the identified factors. Based on testing with 5000+ data points, the random forest classifier is the most accurate predictor of a person’s income level at 85.5%.
+
+#### [Airline Customer Satisfaction](https://github.com/ayianshariff2/projects/blob/main/Airline%20Customer%20Satisfaction%20Report.pdf)
+Applied machine learning techniques, including logistic regression, decision tree, and random forest models, to identify key factors driving airline customer satisfaction from a dataset of over 120,000 passengers. The random forest model achieved the highest accuracy of 95.67% and the highest testing AUC at 0.9899. Through the project, we discovered that the online boarding experience, in-flight wifi service, and travel class were the most important predictors of customer satisfaction with an airline.
+
